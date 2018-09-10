@@ -1,0 +1,1 @@
+java -classpath ..\dist\*;..\lib\*;dist\* com.thinking.machines.dmframework.tools.POJOGUI
